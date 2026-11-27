@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0e8174673ae06c4e82a8e4a90521bd1, type: 3}
+  m_Name: IceStaff_Rare
+  m_EditorClassIdentifier: Assembly-CSharp::AWizardsFight.WeaponData
+  weaponName: Ice Staff
+  weaponType: 2
+  rarity: 1
+  description: An ice shard that temporarily halves enemy movement speed.
+  icon: {fileID: -1550070246163368040, guid: adddd330c17b587418ea124b2650ffb6, type: 3}
+  slowMultiplier: 0.5
+  slowDuration: 2.3
+  damage: 12
+  cooldown: 0.46
+  manaCost: 10
+  projectileSpeed: 12
+  projectilePrefab: {fileID: 4691440714754438827, guid: 5d50605fdd40efc49a624441a3e9f9a7, type: 3}

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdf344a27b81295448d56cb3b6392a1f, type: 3}
+  m_Name: WeaponCatalog
+  m_EditorClassIdentifier: Assembly-CSharp::AWizardsFight.WeaponCatalog
+  weapons:
+  - {fileID: 11400000, guid: 33263eb0ffdf18a408f1ded5e4f366ce, type: 2}
+  - {fileID: 11400000, guid: 4bc3714d046f97749abc979b8b73f34c, type: 2}
+  - {fileID: 11400000, guid: 72dd5147e32ec154e85e546947e78cfa, type: 2}
+  - {fileID: 11400000, guid: 90cb0d6d41231684b830722a68eb7072, type: 2}
+  - {fileID: 11400000, guid: 4f47e01af650b474d8fc69754a29be0b, type: 2}
+  - {fileID: 11400000, guid: 320b90cb55926cc488ebb5b370152eb6, type: 2}
+  - {fileID: 11400000, guid: 63d399140242b3842887b012f9c7e32e, type: 2}
+  - {fileID: 11400000, guid: 2a5f6c5cc1a0abc4995c8f369075a7ab, type: 2}
+  - {fileID: 11400000, guid: ab3a1adeb0f22a44684589b15c89092d, type: 2}
+  - {fileID: 11400000, guid: 035b842529be2194f81463acf84e39fd, type: 2}
+  - {fileID: 11400000, guid: 108f915f879046a4db6c55c5330cd796, type: 2}
+  - {fileID: 11400000, guid: f7ce8d5c92ffa3e41b7d43511d295f2d, type: 2}
+  - {fileID: 11400000, guid: c565b2928fe72a64ebcdc9679d79b93e, type: 2}
+  - {fileID: 11400000, guid: b5d4bd4193bc0e543904d436c4e761f9, type: 2}
+  - {fileID: 11400000, guid: 7001aed2dbad91c4b8b203944545b1fe, type: 2}
+  - {fileID: 11400000, guid: bd5082a295b8ec24db79cc0ed1299664, type: 2}
+  - {fileID: 11400000, guid: 1b4b5174c839a0546afbc21ac29e1363, type: 2}
+  - {fileID: 11400000, guid: 3c127d5661dd3f945a05bdc5ddbef7c1, type: 2}
+  - {fileID: 11400000, guid: d849964d15360fe48b806ecc46a6b615, type: 2}
+  - {fileID: 11400000, guid: 7b29e7c88f02c4547ba61dc6dcf7474e, type: 2}
